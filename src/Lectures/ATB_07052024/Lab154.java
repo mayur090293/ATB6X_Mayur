@@ -6,6 +6,7 @@ public class Lab154
 {
     public static void main(String[] args)
     {
+        //Lab154
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter num1:");
         int num1 = sc.nextInt();

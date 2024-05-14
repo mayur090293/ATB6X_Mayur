@@ -4,6 +4,7 @@ public class Lab147
 {
     public static void main(String[] args)
     {
+        //Lab147
         //Functions: A block of code that performs a specific task and that can be reused.
         //Methods: Function defined in a class is call method
         // 1. Don't return anything
