@@ -4,7 +4,6 @@ public class Lab152
 {
     public static void main(String[] args)
     {
-        //Lab152
 
         saySomething("Mayur");
     }

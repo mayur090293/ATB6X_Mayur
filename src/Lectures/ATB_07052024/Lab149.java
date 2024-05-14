@@ -4,7 +4,6 @@ public class Lab149
 {
     public static void main(String[] args)
     {
-        //Lab149
         //Function to print Hi 100 times
         for(int i=0; i <= 100; i++)
         {

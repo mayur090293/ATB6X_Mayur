@@ -4,7 +4,6 @@ public class Lab150
 {
     public static void main(String[] args)
     {
-        //Lab150
         //Non return type - Function - Define and call
         int result = sum_of_two_numbers();
         System.out.println(result);

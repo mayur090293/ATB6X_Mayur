@@ -2,7 +2,6 @@ package ATB_07052024;
 
 public class Lab159
 {
-    //Lab159
     public static void main(String[] args)
     {
         openBrowser();

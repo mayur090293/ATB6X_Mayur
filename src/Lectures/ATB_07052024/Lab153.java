@@ -4,7 +4,6 @@ public class Lab153
 {
     public static void main(String[] args)
     {
-        //Lab153
        //No return type, No parameter
         saySomething();
 

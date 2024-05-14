@@ -4,7 +4,6 @@ public class Lab151
 {
     public static void main(String[] args)
     {
-        //Lab151
         int r1 = sumOfTwo(10, 20);
         System.out.println(r1);
         int r2 = sumOfTwo(30, 20);
